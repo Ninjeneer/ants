@@ -1,0 +1,6 @@
+**/a.out
+.vscode/
+.idea/
+cmake-build-debug/
+SFML/
+CMakeLists.txt

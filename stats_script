@@ -1,0 +1,5 @@
+plot \
+"cmake-build-debug/stats.dat" using 2 with lines title "Nb Ants", \
+"cmake-build-debug/stats.dat" using 3 with lines title "Nb Slavers", \
+"cmake-build-debug/stats.dat" using 4 with lines title "Anthill food quantity", \
+"cmake-build-debug/stats.dat" using 5 with lines title "Remaining food"
